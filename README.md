@@ -5,4 +5,10 @@
 ## Description
 This repo builds and publishes the Base Docker Image to [hub.docker.com](https://hub.docker.com). Thiswill be used to build all other allthingsnix Docker Images from/ 
 
+## Building Locally
+
+1. Clone this repo
+2. cd into this repo
+3. Run the command `docker build -t allthingsnix/docker-base-image .`
+
                  
