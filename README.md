@@ -1,4 +1,4 @@
-![Github Actions](https://github.com/allthingsnix/Docker-Base-Image/actions/workflows/<action file name>.yml/badge.svg) ![GitHub License](https://img.shields.io/github/license/allthingsnix/Docker-Base-Image) ![Contributors](https://img.shields.io/github/contributors/allthingsnix/Docker-Base-Image) ![Issues](https://img.shields.io/github/issues/allthingsnix/Docker-Base-Image?color=0088ff) ![Pull Request](https://img.shields.io/github/issues-pr/allthingsnix/Docker-Base-Image?color=0088ff)
+![Publish Docker Image](https://github.com/allthingsnix/Docker-Base-Image/actions/workflows/publish-docker-image.yml/badge.svg) ![GitHub License](https://img.shields.io/github/license/allthingsnix/Docker-Base-Image) ![Contributors](https://img.shields.io/github/contributors/allthingsnix/Docker-Base-Image) ![Issues](https://img.shields.io/github/issues/allthingsnix/Docker-Base-Image?color=0088ff) ![Pull Request](https://img.shields.io/github/issues-pr/allthingsnix/Docker-Base-Image?color=0088ff)
 
 # Docker-Base-Image
 
