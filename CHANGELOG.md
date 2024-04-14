@@ -1,4 +1,6 @@
 # Unreleased
+* Added `curl`
+* Added `wget`
 
 # 1.0.0
 * initial repo creation
