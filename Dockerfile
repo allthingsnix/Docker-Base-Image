@@ -16,7 +16,7 @@ COPY entrypoint.sh /usr/bin/
 
 RUN apt update && \
     apt dist-upgrade -y && \
-    apt install -y git vim net-tools curl wget && \
+    apt install -y git vim net-tools curl wget tar && \
     mkdir /config && \
     chmod 774 /config && \
     chmod +x /usr/bin/entrypoint.sh
