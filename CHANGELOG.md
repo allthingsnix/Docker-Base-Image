@@ -1,5 +1,8 @@
 # Unreleased
 
+# 1.4.0
+* Added `gzip`
+
 # 1.3.0
 * Added `sudo`
 
